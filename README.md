@@ -1,2 +1,2 @@
-# PythonTrainingHW2021
-This project contains all the assignments of the Python Training 2021
+# GWPy2021
+This project contains Python use cases.
